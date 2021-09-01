@@ -1,0 +1,36 @@
+.search-result-box {
+  width: 30%;
+  background-color: rgb(218, 216, 218);
+  height: fit-content;
+}
+.location {
+  height: 100px;
+  margin: 20px 20px;
+  background-color: tomato;
+  border-radius: 10px;
+  box-shadow: 10px;
+}
+.location p {
+  font-weight: 700;
+  color: white;
+}
+.location-info {
+  height: 60px;
+  background-color: white;
+  margin: 20px 20px;
+  border-radius: 10px;
+  box-shadow: 10px;
+  display: flex;
+  padding-top: 10px;
+}
+.location-info img {
+  height: 40px;
+  width: fit-content;
+  padding: 5px 20px;
+}
+.location-info p {
+  padding-top: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 10px;
+}

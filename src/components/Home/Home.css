@@ -1,0 +1,17 @@
+.items {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 30px;
+  margin-left: 200px;
+  margin-right: 100px;
+  padding-top: 200px;
+}
+
+.home {
+  background-image: url("../../images/Bg.png");
+  height: 635px;
+  background-position: top;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: 100% 100%;
+  margin-top: -60px;
+}

@@ -1,0 +1,11 @@
+.vehicles {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.vehicle-title {
+  cursor: pointer;
+}
+.card-image img {
+  margin-left: 50px;
+}

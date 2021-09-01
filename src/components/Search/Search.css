@@ -1,0 +1,30 @@
+.search-box {
+  width: 30%;
+  background-color: rgb(218, 216, 218);
+  height: fit-content;
+}
+.search-form {
+  margin: 20px;
+}
+.search-btn {
+  background-color: tomato;
+  padding: 5px 122px;
+  margin: 20px auto;
+  color: rgb(255, 255, 255);
+  /* border-radius: 5px; */
+  border: none;
+}
+.search-form input {
+  width: 300px;
+  height: 37px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.map {
+  margin-left: 50px;
+}
+.map img {
+  height: 500px;
+  width: 720px;
+}
